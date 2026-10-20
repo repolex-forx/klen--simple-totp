@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "simple-totp",
+  "versions": [
+    {
+      "commit": "cd5aba449a49d2e9d77cb8a6c920e234a6ffafab",
+      "parsed_at": "2026-10-20T21:07:36.655916+00:00",
+      "filetree": "filetree/cd5aba449a49d2e9d77cb8a6c920e234a6ffafab.nq.gz",
+      "blobs": [
+        "blob/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7.nq.gz",
+        "blob/e5dd1d267add7f460b90aeeb9f910a49c9b7b112.nq.gz",
+        "blob/91292f2080d518525b27125dfb34a768c1cbe8d2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
